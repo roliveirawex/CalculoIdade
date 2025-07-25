@@ -4,7 +4,6 @@ The financial area has been calculating employees' birthdays manually.
 
 The exercise is to generate a solution where birth data is entered, and the answer is age in years, months, and days.
 
-The language we use is C# with .Net Framework.
 
 What we evaluate in the test:
 
